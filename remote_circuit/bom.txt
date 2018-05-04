@@ -1,0 +1,33 @@
+Qty Value             Device                              Package
+1   47                Resistor                            1206
+4   130               Resistor                            1206
+2   270               Resistor                            1206
+1   430               Resistor                            1206
+12  10k               Resistor                            1206
+1   39k               Resistor                            1206
+1   100k              Resistor                            1206
+
+4   22p               Ceramic capacitor 16V               1206
+1   100p              Ceramic capacitor 16V               1206
+2   470p              Ceramic capacitor 16V               1206
+2   1n                Ceramic capacitor 16V               1206
+1   10n               Ceramic capacitor 16V               1206
+16  100n              Ceramic capacitor 16V               1206
+2   1u                Ceramic capacitor 16V               1206
+8   10u               Ceramic capacitor 16V               1206
+1   100u              Electrolytic capacitor 16V          6.3x5.3
+
+1   TL431             TL431                               SO-8
+
+1   BSS138            Transistor                          SOT23
+2   IRLML5203         Transistor                          MICRO3
+
+1   LM2940CT-5.0      Voltage regulator                   TO-220
+1   TS1117CW-5.0      Voltage regulator                   SOT223
+1   TS1117BCW-3.3     Voltage regulator                   SOT223
+
+1   MOMENTARY-SWITCH  MOMENTARY-SWITCH-SPST-SMD           6x3,8mm
+
+1   blue              LED                                 1206
+2   green             LED                                 1206
+4   red               LED                                 1206

@@ -1,0 +1,25 @@
+Qty Value         Device                          Package
+2   33            Resistor                        1206
+2   130           Resistor                        1206
+1   680           Resistor                        1206
+1   9k1           Resistor                        1206
+1   20k           Resistor                        1206
+1   10k           Resistor                        1206
+2   100k          Resistor                        1206
+1   110k          Resistor                        1206
+
+2   22p           Ceramic capacitor               1206
+2   100p          Ceramic capacitor               1206
+1   470p          Ceramic capacitor               1206
+2   1n            Ceramic capacitor               1206
+1   10n           Ceramic capacitor               1206
+6   100n          Ceramic capacitor               1206
+8   10u           Ceramic capacitor               1206
+
+1   Conn          CONN_02JST-PTH-2                JST-2-PTH
+
+1   SWITCH        MOMENTARY-SWITCH-SPST-PTH-6.0MM 6.0mm
+
+1   blue          LED                             1206
+1   green         LED                             1206
+1   red           LED                             1206
