@@ -1,44 +1,36 @@
 **MAD-FC-2a** quadrocopter flight controller.
 
 This is a project of a flight controller for quadcopter. The [main source file][cpp] is designed to be descriptive of a multirotor flight controller algorithm. It is a concrete implementation that uses ATmega328P, MPU9255 and nRF24L01+ hardware but they can be easily replaced. The schematic and board layout for the flight controller and the remote board can be found in their respective circuit folders. The project depends on [MAD][madLink] library which is a common library for the flight controller and the remote.
+
 *Not tested, Old project: [FC-alpha2][fcAlpha2].*
+
 
 Flight Controller
 =================
 Schematic:
 ----------
-![sch](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
+![sch](https://github.com/VaSe7u/MAD-FC-2a/blob/master/fc_circuit/Export/schematic.png)
 
 Board:
 ----------
-![brd](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
-![photo](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
-![photo](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
+![brd](https://github.com/VaSe7u/MAD-FC-2a/blob/master/fc_circuit/Export/board.png)
+![brdPhoto1](https://github.com/VaSe7u/MAD-FC-2a/blob/master/fc_circuit/FC%20(photoresist).jpg)
+![brdPhoto2](https://github.com/VaSe7u/MAD-FC-2a/blob/master/fc_circuit/FC.jpg)
 
-Photos:
+Photo:
 ----------
-![brd](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
-![photo](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
-![photo](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
+![quadPhoto](https://github.com/VaSe7u/MAD-FC-2a/blob/master/quad.jpg)
 
 
 Remote
 ======
 Schematic:
 ----------
-![sch](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
+![rsch](https://github.com/VaSe7u/MAD-FC-2a/blob/master/remote_circuit/Export/schematic.png)
 
 Board:
 ----------
-![brd](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
-![photo](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
-![photo](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
-
-Photos:
-----------
-![brd](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
-![photo](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
-![photo](https://raw.githubusercontent.com/VaSe7u/LiquidMenu/master/doc/Images/logo.png)
+![rbrd](https://github.com/VaSe7u/MAD-FC-2a/blob/master/remote_circuit/Export/board.png)
 
 
 
@@ -67,5 +59,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[cpp]: https://github.com/VaSe7u/MAD-FC-2a/blob/master/code/MAD-FC-2a.ino
 [madLink]: https://github.com/VaSe7u/MAD
 [fcAlpha2]: https://github.com/VaSe7u/FC-alpha2
