@@ -19,10 +19,6 @@ uint32_t us() {
   return ((m << 8) + t) << 2;
 }
 
-// float ms() {
-//   return ((float)us() / 1000.0f);
-// }
-
 
 namespace board {
 
